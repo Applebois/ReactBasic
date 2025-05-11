@@ -35,7 +35,7 @@ function App() {
           <textarea
             rows="10"
             cols="50"
-            placeholder="Paste your secret thoughts here..."
+            placeholder="Paste your secret thoughts her..."
             style={{ width: '100%', maxWidth: '500px' }}
             onChange={(e) => setSecret(e.target.value)}
           />
